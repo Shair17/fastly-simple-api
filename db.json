@@ -1,9 +1,11 @@
-[
-  {
-    "category": "Comida Rápida",
-    "title": "test",
-    "price": 5.99,
-    "favourite": false,
-    "img": "https://i.imgur.com/Qed8KzU.jpg",
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
